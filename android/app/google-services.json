@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549363925222",
+    "project_id": "offer-informing-app-184f5",
+    "storage_bucket": "offer-informing-app-184f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549363925222:android:e29f4e6cfa0404c5743b27",
+        "android_client_info": {
+          "package_name": "com.example.offer_informing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1DN7h4FYQ8_ri94YOzGj27b8Ma9CtQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
